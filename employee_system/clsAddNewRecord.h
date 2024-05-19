@@ -2,7 +2,7 @@
 #include "clsStringsAndFiles.h"
 
 
-class clsAddNewRecord : public clsOperations
+class clsAddNewRecord
 {
 public:
     static void AddNewRecordScreen(){
